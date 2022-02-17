@@ -1,4 +1,8 @@
 1> create new branch to work on
 2> changes made in GH.
 3> Created new line on MAC
+<<<<<<< HEAD
 4> lets work at the same time (GH)
+=======
+4> lets work at the same time (MAC)
+>>>>>>> a5091ed (working at the same time)
