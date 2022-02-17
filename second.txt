@@ -1,3 +1,6 @@
-2> sending to mac
+1> sending to mac
 
-4> step added from github
+2> step added from github
+3> #2 data is changed
+4>delete this on github
+5>conflict resolved in cli
