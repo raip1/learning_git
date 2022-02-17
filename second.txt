@@ -4,7 +4,9 @@
 4>
 5>conflict resolved in cli
 6> deleted line 4 like requested
-
 7> added line from mac again
+8> LINE FROM MAC ADDED
+9>line 8 added from mac
+10> you forgot to add your line form gh
 
-8> add line from mac here
+#files cleaned up
