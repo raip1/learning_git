@@ -1,2 +1,4 @@
 //TODO: implement utils
-console.log("working in secondary branch now");
+
+console.log ("Self Test 1");
+console.log ("Sending updated file to rebase from github");
