@@ -1,1 +1,3 @@
 2> sending to mac
+
+4> step added from github
